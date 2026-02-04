@@ -1,6 +1,6 @@
 --##########################################################################
---	AUTHOR: SANELISO MZWAKALI
---	LAST UPDATE: 09/11/2021
+--	AUTHOR: SIPHAMANDLA NGQENGQA
+--	LAST UPDATE: 12/11/2025
 --	DESCRIPTION: COVID DATA EXPLORATION
 --	SERVER NAME: 
 --	DATABASE NAME: PortfolioProject
@@ -226,4 +226,5 @@ USE [PortfolioProject]
 
 	SELECT *
 	FROM PercentagePopulationVaccinated
+
 
