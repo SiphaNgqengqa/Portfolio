@@ -1,6 +1,6 @@
 --##########################################################################
---	AUTHOR: SANELISO MZWAKALI
---	LAST UPDATE: 12/11/2021
+--	AUTHOR: SIPHAMANDLA NGQENGQA
+--	LAST UPDATE: 12/11/2025
 --	DESCRIPTION: Nashville data Cleansing Project
 --	SERVER NAME: 
 --	DATABASE NAME: DataCleansing
@@ -222,5 +222,6 @@
 
 	ALTER TABLE [WIP].[NashvilleData]
 	DROP COLUMN [OwnerAddress],[TaxDistrict],[PropertyAddress]
+
 
 
